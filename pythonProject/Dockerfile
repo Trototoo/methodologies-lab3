@@ -1,5 +1,4 @@
-FROM python:alpine
-
+FROM python:bullseye
 
 WORKDIR /app
 
